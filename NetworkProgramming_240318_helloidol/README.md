@@ -12,6 +12,11 @@
       1. `python manage.py start app _playground_`
    2. helloidol/settings.py
       1. `'playground',` in INSTALLED_APPS : 앱등록
-3. Django 프로젝트 설정
+3. playground/
+   - 정보 전달 : urls -> views -> (models -> ) templates
+   - 코드 작성 : ( models -> ) views -> templates -> urls 
+   1. views
+      1. `_say_hello()_`
+4. Django 프로젝트 설정
    1. `Settings` -> `Languages&FrameWork` -> `Django` 
    2. `Enable Django Support` -> `root`에 현재 파일 추가 -> `settings`에 settings.py 추가
