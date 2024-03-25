@@ -21,6 +21,10 @@
    2. urls
       1. `_playground/hello/_` -> `_say_hello()_`와 연결
       2. `_playtround/hello_html/` -> `_say_hello_html()_`
-4. Django 프로젝트 설정
+4. helloidol/
+   1. urls, plyground/urls
+      1. _playground/_ -> _hello_ -> _say_hello()_
+      2. _playground/ -> _hello_html_ -> _say_hello_html()_
+5. Django 프로젝트 설정
    1. `Settings` -> `Languages&FrameWork` -> `Django` 
    2. `Enable Django Support` -> `root`에 현재 파일 추가 -> `settings`에 settings.py 추가
