@@ -19,6 +19,7 @@
       1. `_say_hello()_`
       2. `_say_hello_html()_`
       3. `_say_bye_html()_`
+      4. -> templates에 context 전달 
    2. urls
       1. `_playground/hello/_` -> `_say_hello()_`와 연결
       2. `_playtround/hello_html/` -> `_say_hello_html()_`
