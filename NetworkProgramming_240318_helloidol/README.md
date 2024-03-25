@@ -21,6 +21,8 @@
    2. urls
       1. `_playground/hello/_` -> `_say_hello()_`와 연결
       2. `_playtround/hello_html/` -> `_say_hello_html()_`
+   3. templates/playground/
+      1. hello.html
 4. helloidol/
    1. urls, plyground/urls
       1. _playground/_ -> _hello_ -> _say_hello()_
