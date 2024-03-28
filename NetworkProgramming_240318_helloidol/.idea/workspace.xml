@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8552d674-a721-436e-a3a7-729047bcd84e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mic050r&quot;
+  }
+}</component>
+  <component name="GitRewordedCommitMessages">
+    <option name="commitMessagesMapping">
+      <RewordedCommitMessageMapping>
+        <option name="originalMessage" value="It's mine" />
+        <option name="rewordedMessage" value="It's mine&#10;&#10;&#10;It's mine" />
+      </RewordedCommitMessageMapping>
+    </option>
+    <option name="currentCommit" value="1" />
+    <option name="onto" value="853317f90e5b7ccc65be039136844b4202f28521" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6c9f14de-d161-43e1-a146-1538ae55dd0a" />
+        <option name="url" value="https://github.com/mic050r/Django_2024.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2dqKm0Ho8LPIvjRCtV9EKAyfsDO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Django Server.runserver.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
+    "last_opened_file_path": "C:/2024 Django",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.import",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\2024 Django\NetworkProgramming_240318_helloidol\dracula" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8552d674-a721-436e-a3a7-729047bcd84e" name="Changes" comment="" />
+      <created>1710730323357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710730323357</updated>
+      <workItem from="1710730330302" duration="1515000" />
+      <workItem from="1710903506730" duration="16000" />
+      <workItem from="1710998810728" duration="3273000" />
+      <workItem from="1711002476322" duration="124000" />
+      <workItem from="1711002610649" duration="2894000" />
+      <workItem from="1711330392967" duration="6021000" />
+      <workItem from="1711603462677" duration="4457000" />
+    </task>
+    <task id="LOCAL-00001" summary="startproject helloidol">
+      <option name="closed" value="true" />
+      <created>1710731628853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710731628853</updated>
+    </task>
+    <task id="LOCAL-00002" summary="startapp playground">
+      <option name="closed" value="true" />
+      <created>1711000282763</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711000282763</updated>
+    </task>
+    <task id="LOCAL-00003" summary="views say_hello()">
+      <option name="closed" value="true" />
+      <created>1711002859066</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711002859066</updated>
+    </task>
+    <task id="LOCAL-00004" summary="urls playground/hello/ -&gt; views say_hello()">
+      <option name="closed" value="true" />
+      <created>1711003789291</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711003789291</updated>
+    </task>
+    <task id="LOCAL-00005" summary="urls playground/hello/ -&gt; views say_hello()">
+      <option name="closed" value="true" />
+      <created>1711004081591</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1711004081591</updated>
+    </task>
+    <task id="LOCAL-00006" summary="urls, views, templates playground/hello_html/ -&gt; say_hello_html() -&gt; hello.html">
+      <option name="closed" value="true" />
+      <created>1711005046157</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711005046157</updated>
+    </task>
+    <task id="LOCAL-00007" summary="playground/hello =&gt; playground/ -&gt; hello/, playground/hello_html/ =&gt; playground/ -&gt; hello_html/">
+      <option name="closed" value="true" />
+      <created>1711332481876</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711332481877</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add templates/playground/hello.html">
+      <option name="closed" value="true" />
+      <created>1711332684483</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1711332684483</updated>
+    </task>
+    <task id="LOCAL-00009" summary="views, templates, urls: playground/ -&gt; bye_html/ -&gt; say_bye_html() -&gt; bye.html">
+      <option name="closed" value="true" />
+      <created>1711336011104</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711336011104</updated>
+    </task>
+    <task id="LOCAL-00010" summary="views -&gt; templates에 context 전달">
+      <option name="closed" value="true" />
+      <created>1711336707618</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711336707618</updated>
+    </task>
+    <task id="LOCAL-00011" summary="It's mine">
+      <option name="closed" value="true" />
+      <created>1711608184233</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711608184233</updated>
+    </task>
+    <task id="LOCAL-00012" summary="It's mine">
+      <option name="closed" value="true" />
+      <created>1711608228285</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711608228285</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="startproject helloidol" />
+    <MESSAGE value="startapp playground" />
+    <MESSAGE value="views say_hello()" />
+    <MESSAGE value="urls playground/hello/ -&gt; views say_hello()" />
+    <MESSAGE value="urls, views, templates playground/hello_html/ -&gt; say_hello_html() -&gt; hello.html" />
+    <MESSAGE value="playground/hello =&gt; playground/ -&gt; hello/, playground/hello_html/ =&gt; playground/ -&gt; hello_html/" />
+    <MESSAGE value="add templates/playground/hello.html" />
+    <MESSAGE value="views, templates, urls: playground/ -&gt; bye_html/ -&gt; say_bye_html() -&gt; bye.html" />
+    <MESSAGE value="views -&gt; templates에 context 전달" />
+    <MESSAGE value="It's mine" />
+    <option name="LAST_COMMIT_MESSAGE" value="It's mine" />
+  </component>
+</project>
