@@ -31,6 +31,37 @@
       1. `_playground/_` -> `_hello/_` -> `_say_hello()_`
       2. `_playground/` -> `_hello_html/_` -> `_say_hello_html()_`
       3. `_playground/_` -> `_bye_html/_` -> `_say_hello_html()_`
-5. Django 프로젝트 설정
+
+--- 
+5. startapp 드라큘라  
+   1. Terminal 
+      1. python manage.py startapp 드라큘라
+   2. helloidol/settings.py
+      1. '드라큘라', in INSTALLED_APPS
+6. 드라큘라/
+   1. views
+      1. show_준수()
+      2. show_선아()
+   2. templates/드라큘라/
+      1. 준수.html
+         1. title : 드라큘라 - 김준수
+         2. h1 : 드라큘라
+         3. h2 : 김준수
+         4. img : 프로필 사진
+            1. border-radius : 50%
+      2. 선아.html 
+         1. title : 미나 - 정선아
+         2. h1 : 미나
+         3. h2 : 정선아
+         4. img : 프로필 사진 
+            1. 
+   3. urls
+      1. 드라큘라/ -> 준수/ -> show_준수()
+      2. 드라큘라/ -> 선아/ -> show_선아()
+
+
+6. Django 프로젝트 설정
    1. `Settings` -> `Languages&FrameWork` -> `Django` 
    2. `Enable Django Support` -> `root`에 현재 파일 추가 -> `settings`에 settings.py 추가
+
+
