@@ -28,3 +28,8 @@ def show_summer(request):
     context = list(filter(lambda member: '정선아' in member['name'], group['members']))[0]
     # context = group['members'][1]
     return render(request, 'dracula/member.html', context=context)
+
+
+def show_member(request, mem):
+    context = list(filter(lambda member: mem in member['name'], group['members']))[0]
+    return render(request, 'dracula/member.html', context=context)
