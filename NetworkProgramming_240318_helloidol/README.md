@@ -43,6 +43,7 @@
       1. show_준수()
       2. show_선아()
       3. -> teplates에 context 전달
+      4. 정보를 하나로 묶고, 거기에서 꺼내오자
    2. templates/드라큘라/
       1. ~~준수.html~~
          1. title : 드라큘라 - 김준수
