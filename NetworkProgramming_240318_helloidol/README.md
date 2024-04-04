@@ -20,6 +20,8 @@
       2. `_say_hello_html()_`
       3. `_say_bye_html()_`
       4. -> templates에 context 전달 
+      5. show_멤버()
+      6. image link -> image file(static)
    2. urls
       1. `_playground/hello/_` -> `_say_hello()_`와 연결
       2. `_playtround/hello_html/` -> `_say_hello_html()_`
@@ -46,6 +48,7 @@
       4. 정보를 하나로 묶고, 거기에서 꺼내오자
       5. show_멤버()
       6. image link -> image file(static)
+      7. show_멤버리스트()
    2. templates/드라큘라/
       1. ~~준수.html~~
          1. title : 드라큘라 - 김준수
@@ -61,13 +64,15 @@
       3. 멤버.html
          1. group_name, name, img_src
          2. `{ %load static % } <img src="{%static img_src %}">`
-      4. static/dracula/images/
-         1. sia.png, sia2.png, summer.png
+      4. 멤버리스트.html
+      5. static/dracula/images/
+         1. sia.png, sia2.png, summer.png'
 
    3. urls
       1. ~~드라큘라/ -> 준수/ -> show_준수()~~
       2. ~~드라큘라/ -> 선아/ -> show_선아()~~
       3. 드라큘라/ -> <멤버>/ -> show_멤버(멤버)
+      4. 드라큘라/ -> 멤버리스트 -> shoq_멤버리스트()
       
 
 

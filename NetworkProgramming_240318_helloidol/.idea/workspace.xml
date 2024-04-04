@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8552d674-a721-436e-a3a7-729047bcd84e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dracula/static/dracula/images/sia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dracula/static/dracula/images/sia2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dracula/static/dracula/images/summer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dracula/templates/dracula/member_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dracula/templates/dracula/member.html" beforeDir="false" afterPath="$PROJECT_DIR$/dracula/templates/dracula/member.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dracula/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/dracula/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dracula/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/dracula/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -148,7 +146,7 @@
       <workItem from="1711002610649" duration="2894000" />
       <workItem from="1711330392967" duration="6021000" />
       <workItem from="1711603462677" duration="4457000" />
-      <workItem from="1712208241352" duration="1467000" />
+      <workItem from="1712208241352" duration="3966000" />
     </task>
     <task id="LOCAL-00001" summary="startproject helloidol">
       <option name="closed" value="true" />
@@ -246,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711608228285</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="views, templates, static file(image, css, js, ...)">
+      <option name="closed" value="true" />
+      <created>1712209974015</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712209974015</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,6 +280,7 @@
     <MESSAGE value="views, templates, urls: playground/ -&gt; bye_html/ -&gt; say_bye_html() -&gt; bye.html" />
     <MESSAGE value="views -&gt; templates에 context 전달" />
     <MESSAGE value="It's mine" />
-    <option name="LAST_COMMIT_MESSAGE" value="It's mine" />
+    <MESSAGE value="views, templates, static file(image, css, js, ...)" />
+    <option name="LAST_COMMIT_MESSAGE" value="views, templates, static file(image, css, js, ...)" />
   </component>
 </project>
