@@ -19,8 +19,13 @@
     {# members에서 하나씩 꺼내어 member에 넣기 #}
     {% for member in members %}
     	<tr>
+            {# 멤버 이름에 링크 : dracula/{{ member.name }}/ #}
             <td>{{ member.title }}</td>
-            <td>{{ member.name }}</td>
+            <td><a href="/dracula/{{ member.name }}">{{ member.name }}</a></td>
+            {# / : 호스트 주소(호스트 절대) ../../ : 부모/부모/주소(상대) // : 인터넷 절대 주소 #}
+            {# http://localhost:8000/dracula/{{ member.name }} => 절대주소 #}
+            {# ../../dracula/{{ member.name }} => 상대 주소 #}
+            {# dracula/{{ member.name }} => 에러 발생 #}
             {% load static %}
             <td><img src="{% static member.img %}" alt="" ></td>
         </tr>
