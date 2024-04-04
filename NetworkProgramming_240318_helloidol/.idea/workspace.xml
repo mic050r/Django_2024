@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8552d674-a721-436e-a3a7-729047bcd84e" name="Changes" comment="" />
+    <list default="true" id="8552d674-a721-436e-a3a7-729047bcd84e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/dracula/static/dracula/images/sia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dracula/static/dracula/images/sia2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dracula/static/dracula/images/summer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dracula/templates/dracula/member.html" beforeDir="false" afterPath="$PROJECT_DIR$/dracula/templates/dracula/member.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dracula/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/dracula/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,11 +70,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "Django Server.MAIN.executor": "Run",
     "Django Server.runserver.executor": "Run",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/2024 Django",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -84,8 +94,37 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\2024 Django\NetworkProgramming_240318_helloidol\dracula\static\dracula\images" />
       <recent name="C:\2024 Django\NetworkProgramming_240318_helloidol\dracula" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MAIN" type="Python.DjangoServer" factoryName="Django server">
+      <module name="NetworkProgramming_240318_helloidol" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="helloidol.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (NetworkProgramming_240318_helloidol)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -109,6 +148,7 @@
       <workItem from="1711002610649" duration="2894000" />
       <workItem from="1711330392967" duration="6021000" />
       <workItem from="1711603462677" duration="4457000" />
+      <workItem from="1712208241352" duration="1467000" />
     </task>
     <task id="LOCAL-00001" summary="startproject helloidol">
       <option name="closed" value="true" />

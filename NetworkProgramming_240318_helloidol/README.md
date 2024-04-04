@@ -45,6 +45,7 @@
       3. -> teplates에 context 전달
       4. 정보를 하나로 묶고, 거기에서 꺼내오자
       5. show_멤버()
+      6. image link -> image file(static)
    2. templates/드라큘라/
       1. ~~준수.html~~
          1. title : 드라큘라 - 김준수
@@ -59,6 +60,9 @@
          4. img : 프로필 사진
       3. 멤버.html
          1. group_name, name, img_src
+         2. `{ %load static % } <img src="{%static img_src %}">`
+      4. static/dracula/images/
+         1. sia.png, sia2.png, summer.png
 
    3. urls
       1. ~~드라큘라/ -> 준수/ -> show_준수()~~

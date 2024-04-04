@@ -7,12 +7,14 @@ group = {
         {
             'title': '드라큘라',
             'name': '김준수',
-            'img': 'https://www.ccnnews.co.kr/news/photo/202403/328559_409224_2639.jpg'
+            'img' : 'dracula/images/sia.png'
+            # 'img': 'https://www.ccnnews.co.kr/news/photo/202403/328559_409224_2639.jpg'
         },
         {
             'title': '미나',
             'name': '정선아',
-            'img': 'https://flexible.img.hani.co.kr/flexible/normal/970/1298/imgdb/original/2024/0131/20240131501747.jpg'
+            'img' : 'dracula/images/summer.png'
+            # 'img': 'https://flexible.img.hani.co.kr/flexible/normal/970/1298/imgdb/original/2024/0131/20240131501747.jpg'
         }
     ]
 }
